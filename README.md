@@ -1,4 +1,4 @@
-# Hi, I'm Fekir 👋
+# Hi, I'm Fiker 👋
 
 Full-stack developer focused on building scalable SaaS products, developer tooling, and backend-heavy systems.
 
